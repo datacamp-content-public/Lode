@@ -16,7 +16,7 @@ key: 9585a16145
 
 Typically we ask some first things to an individual when we introduce him or her.
 Inherently we already know the firstname (Lode) but what is Lode's last name?
-What is his gender?
+What is my gender?
 
 
 `@instructions`
